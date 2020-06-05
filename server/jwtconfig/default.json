@@ -1,0 +1,13 @@
+{
+  "dbString": "mongodb+srv://cluster0-qk6kb.gcp.mongodb.net/test",
+  "jwtPrivateKey": "Xn4X8vchcTHKcjFR",
+  "mailServer": {
+    "host": "smtp.gmail.com",
+    "auth": {
+      "user": "officenextday715@gmail.com",
+      "pass": "kaushal711"
+    },
+    "from": "-FROM-EMAIL-",
+    "subject": "Password Reset"
+  }
+}
